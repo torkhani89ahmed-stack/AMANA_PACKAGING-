@@ -1,0 +1,16 @@
+{
+  "appId": "tn.amana.packaging",
+  "appName": "AMANA PACKAGING",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#F3F7FC"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#1F6FEB"
+    }
+  }
+}
