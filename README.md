@@ -1,1 +1,0 @@
-# AMANA_PACKAGING-
